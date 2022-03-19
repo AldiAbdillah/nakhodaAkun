@@ -159,4 +159,7 @@ span.btn:hover {
   .container .card { 
       width: 90vh;
   }
+span.keterangan {
+ width : 95vw;
+}
 }
